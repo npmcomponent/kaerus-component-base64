@@ -41,8 +41,7 @@ var Base64 = {
     decode: function(buf){
         var ret = [], z, x, i, b1, b2, w = [];
 
-        len = buf.length;
-
+        var len = buf.length;
         var code = buf.indexOf.bind(b64);
 
         for(i = 0; i < len; i++){
