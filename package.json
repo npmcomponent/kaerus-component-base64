@@ -1,14 +1,12 @@
 {
   "name": "base64",
   "version": "0.1.0",
-  "main": "index.js",
   "description": "Base64 encoder/decoder",
   "keywords": [
     "base64",
     "encoder",
     "decoder",
-    "urlencode",
-    "urldecode"
+    "url"
   ],
   "author": { 
     "name": "Kaerus",

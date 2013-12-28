@@ -1,10 +1,5 @@
 /* Kaerus 2013, Anders Elo < anders @ kaerus com >             
- * base64 (utf8) encoder / decoder in under 100-lines, enjoyo! 
- *
- *      /                        /     /    /
- *     /__   _ _   ____  ____   /____ /____/
- *    /   / /  /  /___  /__    /    /     /
- *   /___/ /__/\ ____/ /____  /____/     /
+ * base64 (utf8) encoder / decoder & url encoding/decoding 
 */
 
 var b64 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
